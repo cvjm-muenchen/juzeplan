@@ -1,0 +1,2 @@
+# juzeplan
+Wochenplanung Jugendzentrum
